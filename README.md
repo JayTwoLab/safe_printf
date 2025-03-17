@@ -1,2 +1,10 @@
 # safe_printf
-safe_printf for C lang
+
+- `safe_printf()`
+   -  safe altrenative function of `printf()`.
+
+### Code
+
+```cpp
+
+```
