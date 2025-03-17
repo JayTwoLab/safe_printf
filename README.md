@@ -23,3 +23,7 @@ int main()
 - clang
 - Visual C++
 
+### License
+- MIT License
+- https://github.com/JayTwoLab/safe_printf
+
