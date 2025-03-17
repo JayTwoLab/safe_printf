@@ -13,9 +13,13 @@ int main()
     long l1 = 10;
 
     safe_printf("%ld\n", l1);  // ✅ Correct usage
- // safe_printf("%s\n", l1);   // ❌ Warning in GCC/Clang (format mismatch)
+ // safe_printf( "%s\n", l1);  // ❌ Warning (format mismatch)
 
     return 0;
 }
 ```
+### Compiler
+- gcc
+- clang
+- Visual C++
 
